@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">rock</string>
+    <string name="a11y_description">While locked, rock closes the apps you picked when they open. It only reads which app is in front. It reads nothing else and sends nothing anywhere.</string>
+
+    <string name="settings">wheel</string>
+    <string name="close">back</string>
+    <string name="done">good</string>
+    <string name="permissions_missing">permission missing</string>
+
+    <string name="state_pair">find rock</string>
+    <string name="state_free">free</string>
+    <string name="state_locked">rock sleep</string>
+
+    <string name="hint_pair">touch phone to rock.</string>
+    <string name="hint_lock">hit rock. apps sleep.</string>
+    <string name="hint_unlock">hit rock. apps wake.</string>
+    <string name="hint_no_nfc">this phone has no nfc.</string>
+    <string name="hint_nfc_off">nfc is off. tap to turn on.</string>
+    <string name="flash_paired">rock yours now.</string>
+    <string name="flash_wrong">not your rock.</string>
+
+    <string name="apps">apps</string>
+    <string name="apps_choose">pick</string>
+    <string name="apps_sub">these stay shut while locked.</string>
+    <string name="loading">wait…</string>
+
+    <string name="alarm">sun up</string>
+    <string name="alarm_off">no</string>
+    <string name="alarm_sub">only the rock stops it.</string>
+    <string name="alarm_turn_off">turn alarm off</string>
+    <string name="alarm_set">good</string>
+
+    <string name="perms">power</string>
+    <string name="perm_ok">have</string>
+    <string name="perm_grant">give</string>
+    <string name="perm_nfc">nfc</string>
+    <string name="perm_nfc_why">read the rock</string>
+    <string name="perm_a11y">accessibility</string>
+    <string name="perm_a11y_why">close apps</string>
+    <string name="perm_notif">notifications</string>
+    <string name="perm_notif_why">alarm can ring</string>
+    <string name="perm_fsi">full-screen alarm</string>
+    <string name="perm_fsi_why">show on lock screen</string>
+    <string name="perm_exact">exact alarm</string>
+    <string name="perm_exact_why">ring on time</string>
+    <string name="restricted_hint">grey? app info → ⋮ → allow.</string>
+
+    <string name="section_rock">rocks</string>
+    <string name="escape_hold">run away · hold</string>
+    <string name="escape_none">no more run away</string>
+    <string name="escape_sub">rock lost? you can run away a few times.</string>
+    <string name="escape_short">run away</string>
+
+    <string name="block_sub">%1$s sleep.\nhit rock. it wake.</string>
+    <string name="block_this_app">this app</string>
+    <string name="go_home">back to cave</string>
+
+    <string name="wake">WAKE.</string>
+    <string name="wake_tap">hit rock. yell stop.</string>
+    <string name="wake_unlock_first">open phone first.\nthen hit rock.</string>
+    <string name="wake_no_rock">no rock.</string>
+    <string name="unlock_screen">open phone</string>
+    <string name="hold_to_stop">hold. yell stop.</string>
+    <string name="rock_add">+ add rock</string>
+    <string name="rock_adding">touch new rock to phone…</string>
+    <string name="rock_exists">rock already yours.</string>
+    <string name="rock_delete">drop</string>
+    <string name="rock_rename">name rock</string>
+    <string name="rock_default">rock %1$d</string>
+</resources>

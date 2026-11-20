@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Two colours only: pale stone, graphite. -->
+    <color name="sand">#E6E5E2</color>
+    <color name="paint">#0E0E0D</color>
+</resources>

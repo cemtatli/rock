@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_description">rock, kilitliyken seçtiğin uygulamaları açılınca kapatır. Bunun için sadece hangi uygulamanın açıldığını okur. Başka veri okumaz, hiçbir şey göndermez.</string>
+
+    <string name="settings">çark</string>
+    <string name="close">dön</string>
+    <string name="done">tamam</string>
+    <string name="permissions_missing">izin eksik</string>
+
+    <string name="state_pair">taş bul</string>
+    <string name="state_free">özgür</string>
+    <string name="state_locked">taş uyur</string>
+
+    <string name="hint_pair">telefon taşa değsin.</string>
+    <string name="hint_lock">taşa vur. uygulama uyur.</string>
+    <string name="hint_unlock">taşa vur. uygulama uyanır.</string>
+    <string name="hint_no_nfc">bu telefonda nfc yok.</string>
+    <string name="hint_nfc_off">nfc kapalı. açmak için dokun.</string>
+    <string name="flash_paired">taş artık senin.</string>
+    <string name="flash_wrong">bu taş senin değil.</string>
+
+    <string name="apps">uygulamalar</string>
+    <string name="apps_choose">seç</string>
+    <string name="apps_sub">kilitliyken bunlar açılmaz.</string>
+    <string name="loading">bekle…</string>
+
+    <string name="alarm">güneş doğ</string>
+    <string name="alarm_off">yok</string>
+    <string name="alarm_sub">sadece taş susturur.</string>
+    <string name="alarm_turn_off">alarmı kapat</string>
+    <string name="alarm_set">tamam</string>
+
+    <string name="perms">güç</string>
+    <string name="perm_ok">var</string>
+    <string name="perm_grant">ver</string>
+    <string name="perm_nfc">nfc</string>
+    <string name="perm_nfc_why">taşı okusun</string>
+    <string name="perm_a11y">erişilebilirlik</string>
+    <string name="perm_a11y_why">uygulamaları kapatsın</string>
+    <string name="perm_notif">bildirimler</string>
+    <string name="perm_notif_why">alarm çalsın</string>
+    <string name="perm_fsi">tam ekran alarm</string>
+    <string name="perm_fsi_why">kilit ekranında açılsın</string>
+    <string name="perm_exact">tam zamanlı alarm</string>
+    <string name="perm_exact_why">tam vaktinde çalsın</string>
+    <string name="restricted_hint">gri mi? uygulama bilgisi → ⋮ → izin ver.</string>
+
+    <string name="section_rock">taşlar</string>
+    <string name="escape_hold">kaç · bas tut</string>
+    <string name="escape_none">kaçma hakkı bitti</string>
+    <string name="escape_sub">taş kayıp? birkaç kere kaçabilirsin.</string>
+    <string name="escape_short">kaç</string>
+
+    <string name="block_sub">%1$s uyuyor.\ntaşa vur. uyansın.</string>
+    <string name="block_this_app">bu uygulama</string>
+    <string name="go_home">mağaraya dön</string>
+
+    <string name="wake">UYAN.</string>
+    <string name="wake_tap">taşa vur. susar.</string>
+    <string name="wake_unlock_first">önce telefonu aç.\nsonra taşa vur.</string>
+    <string name="wake_no_rock">taş yok.</string>
+    <string name="unlock_screen">telefonu aç</string>
+    <string name="hold_to_stop">bas tut. susar.</string>
+    <string name="rock_add">+ taş ekle</string>
+    <string name="rock_adding">yeni taşı telefona değdir…</string>
+    <string name="rock_exists">bu taş zaten senin.</string>
+    <string name="rock_delete">at</string>
+    <string name="rock_rename">taşa isim ver</string>
+    <string name="rock_default">taş %1$d</string>
+</resources>
